@@ -662,15 +662,10 @@ async def targets(interaction: discord.Interaction, empire: str = None):
     
     await interaction.followup.send(embed=embed)
 
-@tree.command(name="setalert", description="Set the channel for auto-check alerts (Admin only)")
+@tree.command(name="setalert", description="Set the channel for auto-check alerts")
 @app_commands.describe(channel="The channel to send auto-alerts to")
 async def setalert(interaction: discord.Interaction, channel: discord.TextChannel):
     await interaction.response.defer(ephemeral=True)
-    
-    # Check if user has admin permissions
-    if not interaction.user.guild_permissions.administrator:
-        await interaction.followup.send("❌ You need Administrator permission to use this command.", ephemeral=True)
-        return
     
     global ALERT_CHANNEL_ID
     
