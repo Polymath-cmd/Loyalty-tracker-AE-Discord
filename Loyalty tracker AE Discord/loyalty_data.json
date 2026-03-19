@@ -1,0 +1,4043 @@
+{
+  "snapshot": {
+    "318": {
+      "name": "Stokomir",
+      "player": "Derenium",
+      "type": "town",
+      "x": 24,
+      "y": 104,
+      "empire": "BOH",
+      "population": 221
+    },
+    "348": {
+      "name": "Wildwood",
+      "player": "Derenium",
+      "type": "village",
+      "x": 26,
+      "y": 110,
+      "empire": "BOH",
+      "population": 166
+    },
+    "319": {
+      "name": "A4 Mossdale",
+      "player": "Jakobsen",
+      "type": "village",
+      "x": 28,
+      "y": 91,
+      "empire": "BOH",
+      "population": 235
+    },
+    "366": {
+      "name": "Nevertown",
+      "player": "Derenium",
+      "type": "village",
+      "x": 30,
+      "y": 45,
+      "empire": "BOH",
+      "population": 51
+    },
+    "220": {
+      "name": "A2 Kurengi",
+      "player": "Jakobsen",
+      "type": "village",
+      "x": 30,
+      "y": 83,
+      "empire": "BOH",
+      "population": 267
+    },
+    "310": {
+      "name": "Ouescarp",
+      "player": "mindscarp",
+      "type": "village",
+      "x": 30,
+      "y": 131,
+      "empire": "River",
+      "population": 342
+    },
+    "247": {
+      "name": "A3 Imbainora",
+      "player": "Jakobsen",
+      "type": "town",
+      "x": 31,
+      "y": 94,
+      "empire": "BOH",
+      "population": 700
+    },
+    "103": {
+      "name": "A1 Orogo",
+      "player": "Jakobsen",
+      "type": "city",
+      "x": 36,
+      "y": 86,
+      "empire": "BOH",
+      "population": 1487
+    },
+    "336": {
+      "name": "Trekek",
+      "player": "Mr Zeddicus",
+      "type": "village",
+      "x": 39,
+      "y": 76,
+      "empire": null,
+      "population": 34
+    },
+    "345": {
+      "name": "Andirveh",
+      "player": "Moose",
+      "type": "village",
+      "x": 39,
+      "y": 79,
+      "empire": null,
+      "population": 48
+    },
+    "351": {
+      "name": "Paris_plage",
+      "player": "Erua21",
+      "type": "village",
+      "x": 40,
+      "y": 73,
+      "empire": "BTP",
+      "population": 68
+    },
+    "361": {
+      "name": "Iliceli",
+      "player": "Trever",
+      "type": "village",
+      "x": 40,
+      "y": 90,
+      "empire": null,
+      "population": 43
+    },
+    "212": {
+      "name": "Albasca",
+      "player": "Derenium",
+      "type": "town",
+      "x": 41,
+      "y": 103,
+      "empire": "BOH",
+      "population": 546
+    },
+    "327": {
+      "name": "Angelfrost",
+      "player": "Oktay",
+      "type": "village",
+      "x": 42,
+      "y": 68,
+      "empire": null,
+      "population": 34
+    },
+    "309": {
+      "name": "Riverren",
+      "player": "Deimos",
+      "type": "village",
+      "x": 42,
+      "y": 85,
+      "empire": null,
+      "population": 34
+    },
+    "313": {
+      "name": "Trekek",
+      "player": "Rabid Crag",
+      "type": "village",
+      "x": 42,
+      "y": 95,
+      "empire": "BOH",
+      "population": 239
+    },
+    "242": {
+      "name": "Gromilnik",
+      "player": "Lephikos",
+      "type": "village",
+      "x": 43,
+      "y": 79,
+      "empire": null,
+      "population": 21
+    },
+    "338": {
+      "name": "Tisniet",
+      "player": "Smiletopia",
+      "type": "village",
+      "x": 44,
+      "y": 61,
+      "empire": null,
+      "population": 50
+    },
+    "282": {
+      "name": "Yakita",
+      "player": "PopularAbbyeet",
+      "type": "village",
+      "x": 44,
+      "y": 72,
+      "empire": null,
+      "population": 34
+    },
+    "204": {
+      "name": "Telet",
+      "player": "sjtuzhy",
+      "type": "village",
+      "x": 44,
+      "y": 76,
+      "empire": null,
+      "population": 27
+    },
+    "162": {
+      "name": "Sularkuk",
+      "player": "gutoll",
+      "type": "town",
+      "x": 44,
+      "y": 90,
+      "empire": "BOH",
+      "population": 942
+    },
+    "355": {
+      "name": "Mossdale",
+      "player": "Araghastia",
+      "type": "village",
+      "x": 45,
+      "y": 56,
+      "empire": null,
+      "population": 43
+    },
+    "201": {
+      "name": "Lihungi",
+      "player": "AcerThor",
+      "type": "village",
+      "x": 45,
+      "y": 82,
+      "empire": null,
+      "population": 28
+    },
+    "244": {
+      "name": "Tsiorabe",
+      "player": "gutoll",
+      "type": "town",
+      "x": 45,
+      "y": 87,
+      "empire": "BOH",
+      "population": 826
+    },
+    "328": {
+      "name": "Litoise",
+      "player": "alex",
+      "type": "village",
+      "x": 46,
+      "y": 97,
+      "empire": null,
+      "population": 152
+    },
+    "141": {
+      "name": "Tsela",
+      "player": "AngryGrass387",
+      "type": "village",
+      "x": 47,
+      "y": 77,
+      "empire": null,
+      "population": 24
+    },
+    "185": {
+      "name": "[02] Nonono",
+      "player": "WaySlayer",
+      "type": "village",
+      "x": 47,
+      "y": 78,
+      "empire": null,
+      "population": 159
+    },
+    "197": {
+      "name": "Clerlet",
+      "player": "hibik",
+      "type": "village",
+      "x": 47,
+      "y": 88,
+      "empire": null,
+      "population": 24
+    },
+    "217": {
+      "name": "Rivergrasp",
+      "player": "MrSganaway",
+      "type": "village",
+      "x": 48,
+      "y": 92,
+      "empire": null,
+      "population": 21
+    },
+    "211": {
+      "name": "05-Tremblant",
+      "player": "dub452",
+      "type": "village",
+      "x": 49,
+      "y": 66,
+      "empire": "BOH",
+      "population": 298
+    },
+    "208": {
+      "name": "Rimecoast",
+      "player": "ChissAscendancy",
+      "type": "village",
+      "x": 49,
+      "y": 68,
+      "empire": null,
+      "population": 21
+    },
+    "126": {
+      "name": "Crowvault",
+      "player": "Silly",
+      "type": "village",
+      "x": 49,
+      "y": 84,
+      "empire": null,
+      "population": 25
+    },
+    "356": {
+      "name": "San Casario",
+      "player": "gutoll",
+      "type": "village",
+      "x": 49,
+      "y": 89,
+      "empire": "BOH",
+      "population": 162
+    },
+    "342": {
+      "name": "Alenmasse",
+      "player": "Nairdanev",
+      "type": "village",
+      "x": 50,
+      "y": 52,
+      "empire": null,
+      "population": 57
+    },
+    "171": {
+      "name": "Taniroa",
+      "player": "FranklinT.",
+      "type": "village",
+      "x": 50,
+      "y": 72,
+      "empire": null,
+      "population": 26
+    },
+    "91": {
+      "name": "[01] Wololo",
+      "player": "WaySlayer",
+      "type": "village",
+      "x": 50,
+      "y": 76,
+      "empire": null,
+      "population": 259
+    },
+    "96": {
+      "name": "Marbelid",
+      "player": "Delmaris",
+      "type": "village",
+      "x": 50,
+      "y": 79,
+      "empire": null,
+      "population": 21
+    },
+    "297": {
+      "name": "Hollowglen",
+      "player": "Rabid Crag",
+      "type": "town",
+      "x": 50,
+      "y": 99,
+      "empire": "BOH",
+      "population": 311
+    },
+    "352": {
+      "name": "Aragon",
+      "player": "perkann1",
+      "type": "village",
+      "x": 50,
+      "y": 103,
+      "empire": null,
+      "population": 64
+    },
+    "335": {
+      "name": "Perpippes",
+      "player": "Berg La Filocha",
+      "type": "village",
+      "x": 51,
+      "y": 45,
+      "empire": "BOH",
+      "population": 158
+    },
+    "304": {
+      "name": "Main",
+      "player": "Aether Domain",
+      "type": "town",
+      "x": 51,
+      "y": 56,
+      "empire": "BOH",
+      "population": 436
+    },
+    "200": {
+      "name": "Smoothpeak",
+      "player": "Luxania",
+      "type": "village",
+      "x": 51,
+      "y": 64,
+      "empire": null,
+      "population": 33
+    },
+    "266": {
+      "name": "3. Despair",
+      "player": "SupremeNewb",
+      "type": "town",
+      "x": 51,
+      "y": 83,
+      "empire": "BOH",
+      "population": 665
+    },
+    "166": {
+      "name": "Bannela",
+      "player": "Nestormio",
+      "type": "village",
+      "x": 51,
+      "y": 94,
+      "empire": null,
+      "population": 21
+    },
+    "107": {
+      "name": "Bereb",
+      "player": "gutoll",
+      "type": "city",
+      "x": 52,
+      "y": 90,
+      "empire": "BOH",
+      "population": 1219
+    },
+    "294": {
+      "name": "Galletas",
+      "player": "Krakeling",
+      "type": "village",
+      "x": 53,
+      "y": 39,
+      "empire": "BOH",
+      "population": 260
+    },
+    "95": {
+      "name": "Poupouli",
+      "player": "Shinzo Kingdom",
+      "type": "village",
+      "x": 53,
+      "y": 68,
+      "empire": null,
+      "population": 40
+    },
+    "74": {
+      "name": "001 -- Nchelepo",
+      "player": "xPlaykey",
+      "type": "city",
+      "x": 53,
+      "y": 77,
+      "empire": "BOH",
+      "population": 788
+    },
+    "81": {
+      "name": "Lasthallow",
+      "player": "Fish Milk",
+      "type": "village",
+      "x": 53,
+      "y": 84,
+      "empire": null,
+      "population": 23
+    },
+    "133": {
+      "name": "2. Destruction ",
+      "player": "SupremeNewb",
+      "type": "city",
+      "x": 53,
+      "y": 99,
+      "empire": "BOH",
+      "population": 950
+    },
+    "306": {
+      "name": "Wolfshear",
+      "player": "Berg La Filocha",
+      "type": "village",
+      "x": 54,
+      "y": 46,
+      "empire": "BOH",
+      "population": 270
+    },
+    "73": {
+      "name": "Martilly",
+      "player": "Nahkaherra",
+      "type": "city",
+      "x": 54,
+      "y": 73,
+      "empire": "BOH",
+      "population": 226
+    },
+    "358": {
+      "name": "Vallallon",
+      "player": "Situx",
+      "type": "village",
+      "x": 54,
+      "y": 107,
+      "empire": null,
+      "population": 43
+    },
+    "110": {
+      "name": "02-Montr\u00e9al",
+      "player": "dub452",
+      "type": "city",
+      "x": 55,
+      "y": 68,
+      "empire": "BOH",
+      "population": 1047
+    },
+    "36": {
+      "name": "Antogues",
+      "player": "Azrael",
+      "type": "village",
+      "x": 56,
+      "y": 77,
+      "empire": null,
+      "population": 64
+    },
+    "62": {
+      "name": "Sinsu",
+      "player": "MMDCCIV",
+      "type": "village",
+      "x": 56,
+      "y": 87,
+      "empire": null,
+      "population": 29
+    },
+    "137": {
+      "name": "Matize",
+      "player": "Blade",
+      "type": "village",
+      "x": 56,
+      "y": 97,
+      "empire": null,
+      "population": 21
+    },
+    "173": {
+      "name": "Bahahnuj",
+      "player": "XeXe",
+      "type": "town",
+      "x": 56,
+      "y": 100,
+      "empire": null,
+      "population": 297
+    },
+    "285": {
+      "name": "Koutanne",
+      "player": "Valth",
+      "type": "village",
+      "x": 56,
+      "y": 104,
+      "empire": null,
+      "population": 34
+    },
+    "339": {
+      "name": "Tisniet",
+      "player": "Berg La Filocha",
+      "type": "village",
+      "x": 57,
+      "y": 46,
+      "empire": "BOH",
+      "population": 144
+    },
+    "228": {
+      "name": "Thornband",
+      "player": "Zolo",
+      "type": "village",
+      "x": 57,
+      "y": 52,
+      "empire": null,
+      "population": 21
+    },
+    "231": {
+      "name": "Roalun",
+      "player": "Quack Kingdom",
+      "type": "village",
+      "x": 57,
+      "y": 65,
+      "empire": "BOH",
+      "population": 60
+    },
+    "48": {
+      "name": "Acacay",
+      "player": "zeveraars",
+      "type": "village",
+      "x": 57,
+      "y": 69,
+      "empire": null,
+      "population": 24
+    },
+    "35": {
+      "name": "01-Qu\u00e9bec",
+      "player": "dub452",
+      "type": "town",
+      "x": 57,
+      "y": 74,
+      "empire": "BOH",
+      "population": 901
+    },
+    "154": {
+      "name": "002 -- Zibam",
+      "player": "xPlaykey",
+      "type": "town",
+      "x": 57,
+      "y": 79,
+      "empire": "BOH",
+      "population": 672
+    },
+    "67": {
+      "name": "Easthost",
+      "player": "Miltopia",
+      "type": "village",
+      "x": 58,
+      "y": 64,
+      "empire": null,
+      "population": 21
+    },
+    "205": {
+      "name": "Eisenbrunn",
+      "player": "Infinia",
+      "type": "town",
+      "x": 58,
+      "y": 99,
+      "empire": null,
+      "population": 214
+    },
+    "226": {
+      "name": "Milje",
+      "player": "Sikris",
+      "type": "village",
+      "x": 59,
+      "y": 41,
+      "empire": "BOH",
+      "population": 108
+    },
+    "174": {
+      "name": "Le Biscuit",
+      "player": "Krakeling",
+      "type": "city",
+      "x": 59,
+      "y": 61,
+      "empire": "BOH",
+      "population": 1060
+    },
+    "8": {
+      "name": "Atadmus",
+      "player": "Chicken",
+      "type": "village",
+      "x": 59,
+      "y": 83,
+      "empire": null,
+      "population": 109
+    },
+    "286": {
+      "name": "4. Doom",
+      "player": "SupremeNewb",
+      "type": "city",
+      "x": 59,
+      "y": 86,
+      "empire": "BOH",
+      "population": 741
+    },
+    "346": {
+      "name": "Tolenada",
+      "player": "Hamyrhold",
+      "type": "village",
+      "x": 59,
+      "y": 109,
+      "empire": null,
+      "population": 128
+    },
+    "214": {
+      "name": "Olfactorii",
+      "player": "Tomp",
+      "type": "town",
+      "x": 60,
+      "y": 57,
+      "empire": "BOH",
+      "population": 642
+    },
+    "14": {
+      "name": "Losthand",
+      "player": "Quack Kingdom",
+      "type": "village",
+      "x": 60,
+      "y": 68,
+      "empire": "BOH",
+      "population": 340
+    },
+    "4": {
+      "name": "Ovagav\u00ed",
+      "player": "Frappo",
+      "type": "village",
+      "x": 60,
+      "y": 71,
+      "empire": null,
+      "population": 33
+    },
+    "5": {
+      "name": "Narnia",
+      "player": "Dauntless",
+      "type": "city",
+      "x": 60,
+      "y": 78,
+      "empire": "BOH",
+      "population": 550
+    },
+    "25": {
+      "name": "Nelu",
+      "player": "Megadome",
+      "type": "village",
+      "x": 60,
+      "y": 88,
+      "empire": null,
+      "population": 24
+    },
+    "61": {
+      "name": "1. Death",
+      "player": "SupremeNewb",
+      "type": "city",
+      "x": 60,
+      "y": 92,
+      "empire": "BOH",
+      "population": 1094
+    },
+    "135": {
+      "name": "Valenlamar",
+      "player": "Celumn",
+      "type": "village",
+      "x": 60,
+      "y": 100,
+      "empire": null,
+      "population": 78
+    },
+    "258": {
+      "name": "Deadbury",
+      "player": "Lark",
+      "type": "village",
+      "x": 60,
+      "y": 106,
+      "empire": null,
+      "population": 47
+    },
+    "238": {
+      "name": "Icegulf",
+      "player": "Kalarn",
+      "type": "village",
+      "x": 61,
+      "y": 48,
+      "empire": null,
+      "population": 43
+    },
+    "82": {
+      "name": "Nefulae",
+      "player": "Odinson",
+      "type": "village",
+      "x": 61,
+      "y": 59,
+      "empire": null,
+      "population": 35
+    },
+    "275": {
+      "name": "5[0]-Hat\u00e1rv\u00e1r",
+      "player": "proo-yoda",
+      "type": "town",
+      "x": 61,
+      "y": 64,
+      "empire": "BOH",
+      "population": 225
+    },
+    "79": {
+      "name": "Scorchbell",
+      "player": "Infinia",
+      "type": "town",
+      "x": 61,
+      "y": 95,
+      "empire": null,
+      "population": 292
+    },
+    "232": {
+      "name": "Bayfrost",
+      "player": "Byzantine",
+      "type": "village",
+      "x": 61,
+      "y": 102,
+      "empire": "ALL",
+      "population": 160
+    },
+    "186": {
+      "name": "3[1]-AZmegHOL",
+      "player": "proo-yoda",
+      "type": "town",
+      "x": 62,
+      "y": 55,
+      "empire": "BOH",
+      "population": 415
+    },
+    "143": {
+      "name": "03-Matane",
+      "player": "dub452",
+      "type": "town",
+      "x": 62,
+      "y": 73,
+      "empire": "BOH",
+      "population": 638
+    },
+    "243": {
+      "name": "Sudcarp",
+      "player": "mindscarp",
+      "type": "town",
+      "x": 62,
+      "y": 125,
+      "empire": "River",
+      "population": 873
+    },
+    "260": {
+      "name": "Kekse",
+      "player": "Krakeling",
+      "type": "city",
+      "x": 63,
+      "y": 42,
+      "empire": "BOH",
+      "population": 1096
+    },
+    "139": {
+      "name": "02^Talmberk",
+      "player": "Henry",
+      "type": "town",
+      "x": 63,
+      "y": 52,
+      "empire": "BOH",
+      "population": 712
+    },
+    "264": {
+      "name": "3. Easthost K",
+      "player": "Wouser",
+      "type": "village",
+      "x": 63,
+      "y": 69,
+      "empire": "BOH",
+      "population": 276
+    },
+    "175": {
+      "name": "Sitebunye",
+      "player": "Byzantine",
+      "type": "village",
+      "x": 63,
+      "y": 101,
+      "empire": "ALL",
+      "population": 279
+    },
+    "365": {
+      "name": "Crowvault",
+      "player": "EkkieX",
+      "type": "village",
+      "x": 63,
+      "y": 113,
+      "empire": null,
+      "population": 81
+    },
+    "138": {
+      "name": "Phrenicus",
+      "player": "Tomp",
+      "type": "city",
+      "x": 64,
+      "y": 58,
+      "empire": "BOH",
+      "population": 802
+    },
+    "124": {
+      "name": "2[1]-Nekeresd",
+      "player": "proo-yoda",
+      "type": "town",
+      "x": 64,
+      "y": 61,
+      "empire": "BOH",
+      "population": 362
+    },
+    "167": {
+      "name": "Gloombourne",
+      "player": "Quack Kingdom",
+      "type": "village",
+      "x": 64,
+      "y": 66,
+      "empire": "BOH",
+      "population": 155
+    },
+    "202": {
+      "name": "Shadowstar",
+      "player": "Dauntless",
+      "type": "town",
+      "x": 64,
+      "y": 78,
+      "empire": "BOH",
+      "population": 285
+    },
+    "75": {
+      "name": "Ljubuder",
+      "player": "F.M.",
+      "type": "village",
+      "x": 64,
+      "y": 96,
+      "empire": null,
+      "population": 31
+    },
+    "97": {
+      "name": "Dakbommel",
+      "player": "THENICKRULZ",
+      "type": "village",
+      "x": 64,
+      "y": 100,
+      "empire": null,
+      "population": 21
+    },
+    "149": {
+      "name": "Nederby",
+      "player": "ThauMish",
+      "type": "village",
+      "x": 64,
+      "y": 103,
+      "empire": null,
+      "population": 28
+    },
+    "255": {
+      "name": "Alagona",
+      "player": "Philm",
+      "type": "village",
+      "x": 64,
+      "y": 107,
+      "empire": "River",
+      "population": 230
+    },
+    "337": {
+      "name": "Montauzon",
+      "player": "Aether Domain",
+      "type": "village",
+      "x": 65,
+      "y": 39,
+      "empire": "BOH",
+      "population": 165
+    },
+    "331": {
+      "name": "003 -- Koutanne",
+      "player": "xPlaykey",
+      "type": "town",
+      "x": 65,
+      "y": 44,
+      "empire": "BOH",
+      "population": 139
+    },
+    "215": {
+      "name": "Carhuamarca",
+      "player": "Noordzeein",
+      "type": "village",
+      "x": 65,
+      "y": 48,
+      "empire": null,
+      "population": 31
+    },
+    "45": {
+      "name": "Borbonne",
+      "player": "RHUAGH",
+      "type": "village",
+      "x": 65,
+      "y": 60,
+      "empire": null,
+      "population": 24
+    },
+    "105": {
+      "name": "222",
+      "player": "anzzy",
+      "type": "village",
+      "x": 65,
+      "y": 84,
+      "empire": "River",
+      "population": 161
+    },
+    "20": {
+      "name": "111",
+      "player": "anzzy",
+      "type": "village",
+      "x": 65,
+      "y": 92,
+      "empire": "River",
+      "population": 256
+    },
+    "291": {
+      "name": "Cisenbrunn",
+      "player": "Philm",
+      "type": "village",
+      "x": 65,
+      "y": 106,
+      "empire": "River",
+      "population": 219
+    },
+    "307": {
+      "name": "Dausktus",
+      "player": "Philm",
+      "type": "town",
+      "x": 65,
+      "y": 109,
+      "empire": "River",
+      "population": 399
+    },
+    "254": {
+      "name": "4[0]-K\u0150v\u00e9s",
+      "player": "proo-yoda",
+      "type": "village",
+      "x": 66,
+      "y": 51,
+      "empire": "BOH",
+      "population": 233
+    },
+    "155": {
+      "name": "003 | Spencer Reid",
+      "player": "Spencer Reid",
+      "type": "village",
+      "x": 66,
+      "y": 88,
+      "empire": "River",
+      "population": 258
+    },
+    "117": {
+      "name": "Cookies",
+      "player": "Krakeling",
+      "type": "town",
+      "x": 67,
+      "y": 62,
+      "empire": "BOH",
+      "population": 897
+    },
+    "360": {
+      "name": "Ciastka",
+      "player": "Krakeling",
+      "type": "village",
+      "x": 67,
+      "y": 69,
+      "empire": "BOH",
+      "population": 163
+    },
+    "121": {
+      "name": "Nazcanas",
+      "player": "Fontoira",
+      "type": "city",
+      "x": 67,
+      "y": 74,
+      "empire": "BOH",
+      "population": 417
+    },
+    "188": {
+      "name": "04-Alma",
+      "player": "dub452",
+      "type": "village",
+      "x": 67,
+      "y": 77,
+      "empire": "BOH",
+      "population": 320
+    },
+    "277": {
+      "name": "Basthallow",
+      "player": "Philm",
+      "type": "village",
+      "x": 67,
+      "y": 107,
+      "empire": "River",
+      "population": 226
+    },
+    "269": {
+      "name": "002",
+      "player": "00111111",
+      "type": "city",
+      "x": 68,
+      "y": 37,
+      "empire": "BOH",
+      "population": 843
+    },
+    "330": {
+      "name": "Lihungi",
+      "player": "Kyomu",
+      "type": "village",
+      "x": 68,
+      "y": 42,
+      "empire": null,
+      "population": 56
+    },
+    "51": {
+      "name": "01/St\u0159\u00edbrn\u00e1 Skalice",
+      "player": "Henry",
+      "type": "city",
+      "x": 69,
+      "y": 56,
+      "empire": "BOH",
+      "population": 822
+    },
+    "32": {
+      "name": "1[2]-Seholfalva",
+      "player": "proo-yoda",
+      "type": "city",
+      "x": 69,
+      "y": 59,
+      "empire": "BOH",
+      "population": 688
+    },
+    "268": {
+      "name": "3.CRUSH YOUR ENEMIES",
+      "player": "Crom",
+      "type": "town",
+      "x": 69,
+      "y": 65,
+      "empire": "BOH",
+      "population": 393
+    },
+    "10": {
+      "name": "04. Morakusa",
+      "player": "Flamebound",
+      "type": "town",
+      "x": 69,
+      "y": 93,
+      "empire": "River",
+      "population": 692
+    },
+    "54": {
+      "name": "Edenlarney",
+      "player": "Trikimees",
+      "type": "village",
+      "x": 69,
+      "y": 97,
+      "empire": null,
+      "population": 36
+    },
+    "87": {
+      "name": "04 - Mess Opotamia",
+      "player": "Trashdom",
+      "type": "town",
+      "x": 69,
+      "y": 101,
+      "empire": "River",
+      "population": 710
+    },
+    "157": {
+      "name": "Haubwa",
+      "player": "dodobeodo",
+      "type": "village",
+      "x": 69,
+      "y": 105,
+      "empire": null,
+      "population": 30
+    },
+    "222": {
+      "name": "Vagus Novus",
+      "player": "Tomp",
+      "type": "town",
+      "x": 70,
+      "y": 46,
+      "empire": "BOH",
+      "population": 395
+    },
+    "189": {
+      "name": "Gridania",
+      "player": "Imperium",
+      "type": "town",
+      "x": 70,
+      "y": 49,
+      "empire": "BOH",
+      "population": 585
+    },
+    "131": {
+      "name": "Visoko",
+      "player": "Sikris",
+      "type": "village",
+      "x": 70,
+      "y": 52,
+      "empire": "BOH",
+      "population": 201
+    },
+    "111": {
+      "name": "Patra",
+      "player": "temp1",
+      "type": "town",
+      "x": 70,
+      "y": 82,
+      "empire": "River",
+      "population": 759
+    },
+    "112": {
+      "name": "Torpilau",
+      "player": "Svyatislov",
+      "type": "village",
+      "x": 70,
+      "y": 87,
+      "empire": "River",
+      "population": 292
+    },
+    "229": {
+      "name": "03 - Carrion Mound",
+      "player": "Trashdom",
+      "type": "town",
+      "x": 70,
+      "y": 111,
+      "empire": "River",
+      "population": 675
+    },
+    "280": {
+      "name": "003",
+      "player": "00111111",
+      "type": "town",
+      "x": 71,
+      "y": 37,
+      "empire": "BOH",
+      "population": 585
+    },
+    "314": {
+      "name": "Duluth",
+      "player": "Artemis",
+      "type": "village",
+      "x": 71,
+      "y": 68,
+      "empire": "BOH",
+      "population": 286
+    },
+    "278": {
+      "name": "4. Madila K",
+      "player": "Wouser",
+      "type": "village",
+      "x": 71,
+      "y": 72,
+      "empire": "BOH",
+      "population": 253
+    },
+    "234": {
+      "name": "04 \u0110\u00e0 L\u1ea1t",
+      "player": "PukanLand",
+      "type": "city",
+      "x": 71,
+      "y": 77,
+      "empire": "River",
+      "population": 646
+    },
+    "209": {
+      "name": "03-Rataje",
+      "player": "Henry",
+      "type": "village",
+      "x": 72,
+      "y": 54,
+      "empire": "BOH",
+      "population": 319
+    },
+    "109": {
+      "name": "Brainerd",
+      "player": "Artemis",
+      "type": "village",
+      "x": 72,
+      "y": 65,
+      "empire": "BOH",
+      "population": 305
+    },
+    "316": {
+      "name": "Saikhet",
+      "player": "System",
+      "type": "village",
+      "x": 73,
+      "y": 42,
+      "empire": null,
+      "population": 245
+    },
+    "237": {
+      "name": "Limsa Lominsa",
+      "player": "Imperium",
+      "type": "village",
+      "x": 73,
+      "y": 49,
+      "empire": "BOH",
+      "population": 176
+    },
+    "2": {
+      "name": "Anoka",
+      "player": "Artemis",
+      "type": "town",
+      "x": 73,
+      "y": 60,
+      "empire": "BOH",
+      "population": 624
+    },
+    "7": {
+      "name": "05. Subtalana",
+      "player": "Flamebound",
+      "type": "city",
+      "x": 73,
+      "y": 92,
+      "empire": "River",
+      "population": 926
+    },
+    "78": {
+      "name": "Bulanshaat",
+      "player": "Schnibbo",
+      "type": "village",
+      "x": 73,
+      "y": 100,
+      "empire": null,
+      "population": 99
+    },
+    "119": {
+      "name": "02 - The Bad Lands",
+      "player": "Trashdom",
+      "type": "city",
+      "x": 73,
+      "y": 103,
+      "empire": "River",
+      "population": 706
+    },
+    "362": {
+      "name": "Montlun",
+      "player": "baertierchen",
+      "type": "village",
+      "x": 73,
+      "y": 115,
+      "empire": null,
+      "population": 47
+    },
+    "363": {
+      "name": "Tolenada",
+      "player": "System",
+      "type": "village",
+      "x": 74,
+      "y": 41,
+      "empire": null,
+      "population": 141
+    },
+    "177": {
+      "name": "Gadoba",
+      "player": "Helionobre",
+      "type": "village",
+      "x": 74,
+      "y": 82,
+      "empire": "River",
+      "population": 199
+    },
+    "145": {
+      "name": "Anaque",
+      "player": "BigKingdom",
+      "type": "village",
+      "x": 74,
+      "y": 88,
+      "empire": "River",
+      "population": 174
+    },
+    "298": {
+      "name": "Uldah ",
+      "player": "Imperium",
+      "type": "village",
+      "x": 75,
+      "y": 48,
+      "empire": "BOH",
+      "population": 186
+    },
+    "158": {
+      "name": "1. Salino K",
+      "player": "Wouser",
+      "type": "village",
+      "x": 75,
+      "y": 52,
+      "empire": "BOH",
+      "population": 276
+    },
+    "190": {
+      "name": "2. Talbira P",
+      "player": "Wouser",
+      "type": "town",
+      "x": 75,
+      "y": 58,
+      "empire": "BOH",
+      "population": 441
+    },
+    "140": {
+      "name": "03- Huns - C",
+      "player": "Polymath",
+      "type": "town",
+      "x": 75,
+      "y": 77,
+      "empire": "River",
+      "population": 810
+    },
+    "37": {
+      "name": "Heaven",
+      "player": "God",
+      "type": "village",
+      "x": 75,
+      "y": 96,
+      "empire": "River",
+      "population": 186
+    },
+    "340": {
+      "name": "Skaudtus",
+      "player": "Tko",
+      "type": "village",
+      "x": 76,
+      "y": 36,
+      "empire": null,
+      "population": 58
+    },
+    "253": {
+      "name": "Chaska",
+      "player": "Artemis",
+      "type": "village",
+      "x": 76,
+      "y": 39,
+      "empire": "BOH",
+      "population": 319
+    },
+    "168": {
+      "name": "Darkbarrow",
+      "player": "qwerqwerqwer",
+      "type": "village",
+      "x": 76,
+      "y": 43,
+      "empire": null,
+      "population": 30
+    },
+    "115": {
+      "name": "Doudares",
+      "player": "Fretless",
+      "type": "village",
+      "x": 76,
+      "y": 46,
+      "empire": null,
+      "population": 34
+    },
+    "58": {
+      "name": "Pagon",
+      "player": "Pajdo",
+      "type": "village",
+      "x": 76,
+      "y": 50,
+      "empire": null,
+      "population": 30
+    },
+    "43": {
+      "name": "0. Hyrule",
+      "player": "Wouser",
+      "type": "city",
+      "x": 76,
+      "y": 54,
+      "empire": "BOH",
+      "population": 739
+    },
+    "6": {
+      "name": "Litoise",
+      "player": "Avery",
+      "type": "town",
+      "x": 76,
+      "y": 93,
+      "empire": "River",
+      "population": 505
+    },
+    "63": {
+      "name": "01 - Trash Heap",
+      "player": "Trashdom",
+      "type": "city",
+      "x": 76,
+      "y": 103,
+      "empire": "River",
+      "population": 1033
+    },
+    "104": {
+      "name": "Abdincali",
+      "player": "Kelta",
+      "type": "village",
+      "x": 76,
+      "y": 106,
+      "empire": null,
+      "population": 78
+    },
+    "276": {
+      "name": "Waratta",
+      "player": "Varenick",
+      "type": "village",
+      "x": 76,
+      "y": 116,
+      "empire": null,
+      "population": 34
+    },
+    "161": {
+      "name": "Pacion",
+      "player": "Lobben",
+      "type": "town",
+      "x": 77,
+      "y": 64,
+      "empire": "BOH",
+      "population": 323
+    },
+    "224": {
+      "name": "Velec",
+      "player": "Ygelu",
+      "type": "village",
+      "x": 77,
+      "y": 111,
+      "empire": null,
+      "population": 34
+    },
+    "28": {
+      "name": "04^Hrad Trosky",
+      "player": "Henry",
+      "type": "town",
+      "x": 78,
+      "y": 57,
+      "empire": "BOH",
+      "population": 439
+    },
+    "146": {
+      "name": "2. Riddle Of Steel",
+      "player": "Crom",
+      "type": "village",
+      "x": 78,
+      "y": 67,
+      "empire": "BOH",
+      "population": 380
+    },
+    "152": {
+      "name": "1-1 Epaxton M",
+      "player": "hiall",
+      "type": "city",
+      "x": 78,
+      "y": 71,
+      "empire": "River",
+      "population": 1036
+    },
+    "164": {
+      "name": "03 \u2022 Zottelecht",
+      "player": "Chief",
+      "type": "village",
+      "x": 78,
+      "y": 75,
+      "empire": "River",
+      "population": 346
+    },
+    "101": {
+      "name": "Shimatori",
+      "player": "BigKingdom",
+      "type": "village",
+      "x": 78,
+      "y": 86,
+      "empire": "River",
+      "population": 175
+    },
+    "123": {
+      "name": "002 | Spencer Reid",
+      "player": "Spencer Reid",
+      "type": "village",
+      "x": 78,
+      "y": 89,
+      "empire": "River",
+      "population": 263
+    },
+    "33": {
+      "name": "01 H\u00e0 N\u1ed9i",
+      "player": "PukanLand",
+      "type": "city",
+      "x": 78,
+      "y": 100,
+      "empire": "River",
+      "population": 742
+    },
+    "187": {
+      "name": "Dragonvale",
+      "player": "Goatajino",
+      "type": "village",
+      "x": 79,
+      "y": 43,
+      "empire": null,
+      "population": 62
+    },
+    "9": {
+      "name": "Lungland",
+      "player": "Birdington",
+      "type": "village",
+      "x": 79,
+      "y": 60,
+      "empire": null,
+      "population": 173
+    },
+    "13": {
+      "name": "01- Huns - CA",
+      "player": "Polymath",
+      "type": "city",
+      "x": 79,
+      "y": 96,
+      "empire": "River",
+      "population": 936
+    },
+    "68": {
+      "name": "Gounde",
+      "player": "Redwin",
+      "type": "village",
+      "x": 79,
+      "y": 104,
+      "empire": null,
+      "population": 122
+    },
+    "292": {
+      "name": "Zekk",
+      "player": "Fery",
+      "type": "village",
+      "x": 79,
+      "y": 114,
+      "empire": "River",
+      "population": 299
+    },
+    "116": {
+      "name": "02 S\u00e0i G\u00f2n",
+      "player": "PukanLand",
+      "type": "city",
+      "x": 79,
+      "y": 125,
+      "empire": "River",
+      "population": 1029
+    },
+    "359": {
+      "name": "Nementus",
+      "player": "Karzul",
+      "type": "village",
+      "x": 80,
+      "y": 35,
+      "empire": null,
+      "population": 67
+    },
+    "71": {
+      "name": "Gotangata",
+      "player": "Logan",
+      "type": "village",
+      "x": 80,
+      "y": 50,
+      "empire": "BOH",
+      "population": 120
+    },
+    "216": {
+      "name": "Hoerneung",
+      "player": "Lobben",
+      "type": "village",
+      "x": 80,
+      "y": 64,
+      "empire": "BOH",
+      "population": 256
+    },
+    "132": {
+      "name": "Northgate",
+      "player": "Angmar",
+      "type": "village",
+      "x": 80,
+      "y": 108,
+      "empire": null,
+      "population": 27
+    },
+    "305": {
+      "name": "VOLTA",
+      "player": "Fery",
+      "type": "village",
+      "x": 80,
+      "y": 116,
+      "empire": "River",
+      "population": 249
+    },
+    "128": {
+      "name": "Marission",
+      "player": "Ivan117",
+      "type": "village",
+      "x": 81,
+      "y": 46,
+      "empire": null,
+      "population": 24
+    },
+    "147": {
+      "name": "03 \u0110\u00e0 N\u1eb5ng",
+      "player": "PukanLand",
+      "type": "village",
+      "x": 81,
+      "y": 80,
+      "empire": "River",
+      "population": 306
+    },
+    "122": {
+      "name": "02 \u2022 Belgues",
+      "player": "Chief",
+      "type": "city",
+      "x": 81,
+      "y": 87,
+      "empire": "River",
+      "population": 995
+    },
+    "3": {
+      "name": "01. Baoyang",
+      "player": "Flamebound",
+      "type": "city",
+      "x": 81,
+      "y": 92,
+      "empire": "River",
+      "population": 1165
+    },
+    "272": {
+      "name": "Yugamaki",
+      "player": "Sahaladin",
+      "type": "village",
+      "x": 82,
+      "y": 39,
+      "empire": null,
+      "population": 34
+    },
+    "47": {
+      "name": "001 Poppen pilsie",
+      "player": "Prins Pils",
+      "type": "town",
+      "x": 82,
+      "y": 54,
+      "empire": "BOH",
+      "population": 651
+    },
+    "233": {
+      "name": "03. Dothraki",
+      "player": "Stark",
+      "type": "town",
+      "x": 82,
+      "y": 68,
+      "empire": "River",
+      "population": 526
+    },
+    "252": {
+      "name": "1-2 kipos",
+      "player": "hiall",
+      "type": "town",
+      "x": 82,
+      "y": 74,
+      "empire": "River",
+      "population": 535
+    },
+    "267": {
+      "name": "lapix",
+      "player": "Fery",
+      "type": "town",
+      "x": 82,
+      "y": 114,
+      "empire": "River",
+      "population": 448
+    },
+    "38": {
+      "name": "Ikpo",
+      "player": "Lobben",
+      "type": "town",
+      "x": 83,
+      "y": 57,
+      "empire": "BOH",
+      "population": 429
+    },
+    "93": {
+      "name": "001",
+      "player": "00111111",
+      "type": "city",
+      "x": 83,
+      "y": 62,
+      "empire": "BOH",
+      "population": 1131
+    },
+    "151": {
+      "name": "\u0147utrosa\u017e\u00fatsitsu\u0148\u00f6",
+      "player": "Kylrako",
+      "type": "town",
+      "x": 83,
+      "y": 77,
+      "empire": "River",
+      "population": 608
+    },
+    "172": {
+      "name": "La Protecci\u00f3n Divina",
+      "player": "BillySnake",
+      "type": "village",
+      "x": 83,
+      "y": 86,
+      "empire": "River",
+      "population": 333
+    },
+    "72": {
+      "name": "2-1 NAFS",
+      "player": "hiall",
+      "type": "town",
+      "x": 83,
+      "y": 104,
+      "empire": "River",
+      "population": 801
+    },
+    "150": {
+      "name": "2-2 Ksilia",
+      "player": "hiall",
+      "type": "town",
+      "x": 83,
+      "y": 108,
+      "empire": "River",
+      "population": 395
+    },
+    "134": {
+      "name": "Thornband",
+      "player": "Bro",
+      "type": "town",
+      "x": 84,
+      "y": 46,
+      "empire": "BOH",
+      "population": 300
+    },
+    "86": {
+      "name": "Nementus",
+      "player": "Jix",
+      "type": "village",
+      "x": 84,
+      "y": 49,
+      "empire": null,
+      "population": 24
+    },
+    "106": {
+      "name": "La Santa Trinidad",
+      "player": "BillySnake",
+      "type": "city",
+      "x": 84,
+      "y": 89,
+      "empire": "River",
+      "population": 918
+    },
+    "334": {
+      "name": "Cresnando",
+      "player": "Sevenograd",
+      "type": "village",
+      "x": 84,
+      "y": 118,
+      "empire": null,
+      "population": 34
+    },
+    "178": {
+      "name": "Iwamaki",
+      "player": "Bro",
+      "type": "village",
+      "x": 85,
+      "y": 43,
+      "empire": "BOH",
+      "population": 243
+    },
+    "18": {
+      "name": "Shademeadow",
+      "player": "Indefinite",
+      "type": "village",
+      "x": 85,
+      "y": 95,
+      "empire": null,
+      "population": 24
+    },
+    "245": {
+      "name": "Trasario",
+      "player": "Krondor",
+      "type": "town",
+      "x": 85,
+      "y": 112,
+      "empire": "River",
+      "population": 204
+    },
+    "53": {
+      "name": "1. WARLOCKS SWAMP",
+      "player": "Crom",
+      "type": "city",
+      "x": 86,
+      "y": 53,
+      "empire": "BOH",
+      "population": 965
+    },
+    "27": {
+      "name": "Stillshield",
+      "player": "Knortimor",
+      "type": "village",
+      "x": 86,
+      "y": 60,
+      "empire": null,
+      "population": 32
+    },
+    "129": {
+      "name": "Larissa",
+      "player": "temp1",
+      "type": "city",
+      "x": 86,
+      "y": 71,
+      "empire": "River",
+      "population": 926
+    },
+    "102": {
+      "name": "02- Huns - MI",
+      "player": "Polymath",
+      "type": "city",
+      "x": 86,
+      "y": 83,
+      "empire": "River",
+      "population": 1121
+    },
+    "195": {
+      "name": "03. San Casario",
+      "player": "Flamebound",
+      "type": "village",
+      "x": 86,
+      "y": 86,
+      "empire": "River",
+      "population": 283
+    },
+    "12": {
+      "name": "La Santa Gloria",
+      "player": "BillySnake",
+      "type": "city",
+      "x": 86,
+      "y": 92,
+      "empire": "River",
+      "population": 984
+    },
+    "357": {
+      "name": "003 Gele genotskoker",
+      "player": "Prins Pils",
+      "type": "village",
+      "x": 87,
+      "y": 36,
+      "empire": "BOH",
+      "population": 153
+    },
+    "41": {
+      "name": "Drateaux",
+      "player": "LordTea",
+      "type": "village",
+      "x": 87,
+      "y": 57,
+      "empire": null,
+      "population": 36
+    },
+    "55": {
+      "name": "Jilava",
+      "player": "Svyatislov",
+      "type": "town",
+      "x": 87,
+      "y": 100,
+      "empire": "River",
+      "population": 606
+    },
+    "221": {
+      "name": "Darmm\u00f6lsen",
+      "player": "Bro",
+      "type": "village",
+      "x": 88,
+      "y": 44,
+      "empire": "BOH",
+      "population": 220
+    },
+    "142": {
+      "name": "Olimpia",
+      "player": "Peret420",
+      "type": "town",
+      "x": 88,
+      "y": 47,
+      "empire": "ALL",
+      "population": 538
+    },
+    "236": {
+      "name": "Zag\u0142\u0119bie",
+      "player": "Peret420",
+      "type": "town",
+      "x": 88,
+      "y": 51,
+      "empire": "ALL",
+      "population": 448
+    },
+    "180": {
+      "name": "Lumbridge",
+      "player": "Benz",
+      "type": "town",
+      "x": 88,
+      "y": 64,
+      "empire": "BOH",
+      "population": 304
+    },
+    "113": {
+      "name": "02. Carcosa",
+      "player": "Stark",
+      "type": "city",
+      "x": 88,
+      "y": 77,
+      "empire": "River",
+      "population": 1331
+    },
+    "85": {
+      "name": "Nevertown",
+      "player": "PETERMAN",
+      "type": "village",
+      "x": 88,
+      "y": 103,
+      "empire": null,
+      "population": 29
+    },
+    "176": {
+      "name": "Dogville",
+      "player": "black",
+      "type": "village",
+      "x": 88,
+      "y": 107,
+      "empire": null,
+      "population": 44
+    },
+    "347": {
+      "name": "Bitaca",
+      "player": "Juice",
+      "type": "village",
+      "x": 88,
+      "y": 118,
+      "empire": null,
+      "population": 62
+    },
+    "261": {
+      "name": "002 Pretcilinder",
+      "player": "Prins Pils",
+      "type": "town",
+      "x": 89,
+      "y": 40,
+      "empire": "BOH",
+      "population": 496
+    },
+    "322": {
+      "name": "5. Darkness",
+      "player": "SupremeNewb",
+      "type": "town",
+      "x": 89,
+      "y": 55,
+      "empire": "BOH",
+      "population": 430
+    },
+    "19": {
+      "name": "Mafebei",
+      "player": "K0ncept",
+      "type": "village",
+      "x": 89,
+      "y": 93,
+      "empire": null,
+      "population": 29
+    },
+    "34": {
+      "name": "Peti",
+      "player": "Gummiworms",
+      "type": "village",
+      "x": 89,
+      "y": 97,
+      "empire": null,
+      "population": 136
+    },
+    "263": {
+      "name": "04- Huns - I",
+      "player": "Polymath",
+      "type": "town",
+      "x": 89,
+      "y": 111,
+      "empire": "River",
+      "population": 384
+    },
+    "296": {
+      "name": "Cresnando",
+      "player": "Orobas",
+      "type": "village",
+      "x": 89,
+      "y": 114,
+      "empire": null,
+      "population": 34
+    },
+    "308": {
+      "name": "Ro\u017ed\u017e\u00fatab\u00f9tsu\u0148\u00f6",
+      "player": "Kylrako",
+      "type": "village",
+      "x": 90,
+      "y": 68,
+      "empire": "River",
+      "population": 288
+    },
+    "80": {
+      "name": "02. Buko",
+      "player": "Flamebound",
+      "type": "city",
+      "x": 90,
+      "y": 87,
+      "empire": "River",
+      "population": 1358
+    },
+    "206": {
+      "name": "Legia",
+      "player": "Peret420",
+      "type": "town",
+      "x": 91,
+      "y": 49,
+      "empire": "ALL",
+      "population": 585
+    },
+    "57": {
+      "name": "Pondglen",
+      "player": "Bartender",
+      "type": "village",
+      "x": 91,
+      "y": 55,
+      "empire": null,
+      "population": 35
+    },
+    "40": {
+      "name": "Galicia",
+      "player": "Fontoira",
+      "type": "city",
+      "x": 91,
+      "y": 60,
+      "empire": "BOH",
+      "population": 866
+    },
+    "198": {
+      "name": "Farbourne",
+      "player": "Tomkill",
+      "type": "village",
+      "x": 92,
+      "y": 46,
+      "empire": null,
+      "population": 24
+    },
+    "99": {
+      "name": "Direwater",
+      "player": "koii",
+      "type": "village",
+      "x": 92,
+      "y": 51,
+      "empire": null,
+      "population": 33
+    },
+    "31": {
+      "name": "Falador",
+      "player": "Benz",
+      "type": "city",
+      "x": 92,
+      "y": 64,
+      "empire": "BOH",
+      "population": 430
+    },
+    "15": {
+      "name": "Quickham",
+      "player": "Arroz Chau Chau",
+      "type": "village",
+      "x": 92,
+      "y": 72,
+      "empire": null,
+      "population": 31
+    },
+    "1": {
+      "name": "01 \u2022 Mightbell",
+      "player": "Chief",
+      "type": "city",
+      "x": 92,
+      "y": 77,
+      "empire": "River",
+      "population": 859
+    },
+    "11": {
+      "name": "Skaudtus",
+      "player": "satano",
+      "type": "village",
+      "x": 92,
+      "y": 85,
+      "empire": null,
+      "population": 55
+    },
+    "23": {
+      "name": "Sugondezia",
+      "player": "Svyatislov",
+      "type": "village",
+      "x": 92,
+      "y": 93,
+      "empire": "River",
+      "population": 311
+    },
+    "69": {
+      "name": "2-4 Montauciennes",
+      "player": "hiall",
+      "type": "town",
+      "x": 92,
+      "y": 100,
+      "empire": "River",
+      "population": 353
+    },
+    "240": {
+      "name": "Besanville",
+      "player": "Derenium",
+      "type": "town",
+      "x": 93,
+      "y": 39,
+      "empire": "BOH",
+      "population": 502
+    },
+    "50": {
+      "name": "Roalun",
+      "player": "Bastion",
+      "type": "village",
+      "x": 93,
+      "y": 96,
+      "empire": null,
+      "population": 32
+    },
+    "182": {
+      "name": "Scorchbell",
+      "player": "Blackope",
+      "type": "village",
+      "x": 93,
+      "y": 105,
+      "empire": null,
+      "population": 24
+    },
+    "127": {
+      "name": "Estcarp",
+      "player": "mindscarp",
+      "type": "town",
+      "x": 93,
+      "y": 134,
+      "empire": "River",
+      "population": 948
+    },
+    "22": {
+      "name": "Midscarp",
+      "player": "mindscarp",
+      "type": "city",
+      "x": 94,
+      "y": 88,
+      "empire": "River",
+      "population": 1387
+    },
+    "199": {
+      "name": "2-3 Lepanto Mati",
+      "player": "hiall",
+      "type": "town",
+      "x": 94,
+      "y": 110,
+      "empire": "River",
+      "population": 540
+    },
+    "89": {
+      "name": "Doudares",
+      "player": "Noobia",
+      "type": "village",
+      "x": 95,
+      "y": 55,
+      "empire": null,
+      "population": 21
+    },
+    "30": {
+      "name": "Padidilla",
+      "player": "Gibion Millak",
+      "type": "village",
+      "x": 95,
+      "y": 73,
+      "empire": null,
+      "population": 22
+    },
+    "17": {
+      "name": "Tsela",
+      "player": "Kingston",
+      "type": "village",
+      "x": 95,
+      "y": 84,
+      "empire": null,
+      "population": 37
+    },
+    "42": {
+      "name": "El Cielo Eterno",
+      "player": "BillySnake",
+      "type": "city",
+      "x": 95,
+      "y": 92,
+      "empire": "River",
+      "population": 675
+    },
+    "90": {
+      "name": "Keweikuni",
+      "player": "Rictopia",
+      "type": "village",
+      "x": 95,
+      "y": 99,
+      "empire": null,
+      "population": 305
+    },
+    "344": {
+      "name": "Keweikuni",
+      "player": "MIMRIK",
+      "type": "village",
+      "x": 95,
+      "y": 115,
+      "empire": null,
+      "population": 55
+    },
+    "259": {
+      "name": "Sinsu",
+      "player": "Verikusland",
+      "type": "town",
+      "x": 95,
+      "y": 125,
+      "empire": "River",
+      "population": 423
+    },
+    "281": {
+      "name": "Belgues",
+      "player": "Akinji",
+      "type": "village",
+      "x": 96,
+      "y": 44,
+      "empire": null,
+      "population": 38
+    },
+    "148": {
+      "name": "0. Montauciennes",
+      "player": "khana",
+      "type": "village",
+      "x": 96,
+      "y": 51,
+      "empire": "ALL",
+      "population": 192
+    },
+    "66": {
+      "name": "San Rascala",
+      "player": "Svyatislov",
+      "type": "city",
+      "x": 96,
+      "y": 59,
+      "empire": "River",
+      "population": 528
+    },
+    "52": {
+      "name": "Rotudi",
+      "player": "JPO",
+      "type": "village",
+      "x": 96,
+      "y": 62,
+      "empire": null,
+      "population": 22
+    },
+    "16": {
+      "name": "01. Valyria",
+      "player": "Stark",
+      "type": "town",
+      "x": 96,
+      "y": 79,
+      "empire": "River",
+      "population": 575
+    },
+    "235": {
+      "name": "2. Mightacre",
+      "player": "khana",
+      "type": "village",
+      "x": 97,
+      "y": 48,
+      "empire": "ALL",
+      "population": 138
+    },
+    "49": {
+      "name": "Anaque",
+      "player": "Stark",
+      "type": "city",
+      "x": 97,
+      "y": 65,
+      "empire": "River",
+      "population": 427
+    },
+    "44": {
+      "name": "Piesario",
+      "player": "chilcent",
+      "type": "village",
+      "x": 97,
+      "y": 69,
+      "empire": null,
+      "population": 21
+    },
+    "29": {
+      "name": "D\u017eitka\u00fatkadz",
+      "player": "Kylrako",
+      "type": "city",
+      "x": 97,
+      "y": 87,
+      "empire": "River",
+      "population": 867
+    },
+    "144": {
+      "name": "Scorchbell",
+      "player": "Rictopia",
+      "type": "village",
+      "x": 97,
+      "y": 105,
+      "empire": null,
+      "population": 275
+    },
+    "299": {
+      "name": "Iwamaki",
+      "player": "Isthalas",
+      "type": "village",
+      "x": 98,
+      "y": 72,
+      "empire": "ALL",
+      "population": 142
+    },
+    "26": {
+      "name": "001 - Spooky",
+      "player": "Ghost",
+      "type": "city",
+      "x": 98,
+      "y": 84,
+      "empire": "River",
+      "population": 703
+    },
+    "59": {
+      "name": "Kirchnau",
+      "player": "Justea",
+      "type": "village",
+      "x": 98,
+      "y": 91,
+      "empire": "River",
+      "population": 146
+    },
+    "130": {
+      "name": "Bormiers",
+      "player": "Sagaand",
+      "type": "village",
+      "x": 98,
+      "y": 99,
+      "empire": null,
+      "population": 21
+    },
+    "218": {
+      "name": "04. Kadath",
+      "player": "Stark",
+      "type": "town",
+      "x": 98,
+      "y": 101,
+      "empire": "River",
+      "population": 593
+    },
+    "341": {
+      "name": "Nobelage",
+      "player": "Mt Kelarphesis",
+      "type": "village",
+      "x": 98,
+      "y": 113,
+      "empire": null,
+      "population": 74
+    },
+    "156": {
+      "name": "Salatoria",
+      "player": "Svyatislov",
+      "type": "city",
+      "x": 98,
+      "y": 120,
+      "empire": "River",
+      "population": 936
+    },
+    "196": {
+      "name": "1. Kiyokawa",
+      "player": "khana",
+      "type": "village",
+      "x": 99,
+      "y": 50,
+      "empire": "ALL",
+      "population": 158
+    },
+    "136": {
+      "name": "Grenouille ville",
+      "player": "grenouille",
+      "type": "town",
+      "x": 99,
+      "y": 55,
+      "empire": "BOH",
+      "population": 356
+    },
+    "169": {
+      "name": "Saichivlin",
+      "player": "Isthalas",
+      "type": "village",
+      "x": 99,
+      "y": 68,
+      "empire": "ALL",
+      "population": 301
+    },
+    "24": {
+      "name": "Dakbommel",
+      "player": "Nomodon",
+      "type": "village",
+      "x": 99,
+      "y": 80,
+      "empire": null,
+      "population": 22
+    },
+    "98": {
+      "name": "Maznda",
+      "player": "Geiturheim",
+      "type": "village",
+      "x": 99,
+      "y": 95,
+      "empire": null,
+      "population": 24
+    },
+    "303": {
+      "name": "Helmuiden",
+      "player": "Beksito",
+      "type": "village",
+      "x": 99,
+      "y": 110,
+      "empire": null,
+      "population": 40
+    },
+    "88": {
+      "name": "Tategawa",
+      "player": "Ixmnau",
+      "type": "village",
+      "x": 100,
+      "y": 61,
+      "empire": null,
+      "population": 21
+    },
+    "76": {
+      "name": "Haubwa",
+      "player": "qoo0227",
+      "type": "village",
+      "x": 100,
+      "y": 64,
+      "empire": null,
+      "population": 171
+    },
+    "165": {
+      "name": "Dragonvale",
+      "player": "Fontoira",
+      "type": "town",
+      "x": 101,
+      "y": 43,
+      "empire": "BOH",
+      "population": 747
+    },
+    "70": {
+      "name": "Glimmerwind",
+      "player": "Nikaii7",
+      "type": "village",
+      "x": 101,
+      "y": 68,
+      "empire": null,
+      "population": 21
+    },
+    "56": {
+      "name": "05- Huns - A",
+      "player": "Polymath",
+      "type": "town",
+      "x": 101,
+      "y": 72,
+      "empire": "River",
+      "population": 496
+    },
+    "46": {
+      "name": "Mets",
+      "player": "temp1",
+      "type": "town",
+      "x": 101,
+      "y": 76,
+      "empire": "River",
+      "population": 620
+    },
+    "60": {
+      "name": "Dawnrest",
+      "player": "Kylrako",
+      "type": "town",
+      "x": 101,
+      "y": 86,
+      "empire": "River",
+      "population": 427
+    },
+    "83": {
+      "name": "Guamirim",
+      "player": "Curetopia",
+      "type": "village",
+      "x": 101,
+      "y": 91,
+      "empire": null,
+      "population": 21
+    },
+    "312": {
+      "name": "bbbbbbbbbb",
+      "player": "Josepaw",
+      "type": "village",
+      "x": 101,
+      "y": 101,
+      "empire": "ESP",
+      "population": 226
+    },
+    "257": {
+      "name": "Drateaux",
+      "player": "Rictopia",
+      "type": "village",
+      "x": 101,
+      "y": 114,
+      "empire": null,
+      "population": 212
+    },
+    "160": {
+      "name": "Chillmeadow",
+      "player": "Kylrako",
+      "type": "city",
+      "x": 102,
+      "y": 58,
+      "empire": "River",
+      "population": 565
+    },
+    "153": {
+      "name": "Gimdong",
+      "player": "Hostra",
+      "type": "village",
+      "x": 102,
+      "y": 96,
+      "empire": null,
+      "population": 21
+    },
+    "193": {
+      "name": "El Jaleo",
+      "player": "Avery",
+      "type": "town",
+      "x": 102,
+      "y": 99,
+      "empire": "River",
+      "population": 362
+    },
+    "251": {
+      "name": "Aratjo",
+      "player": "RETSABKING",
+      "type": "village",
+      "x": 103,
+      "y": 51,
+      "empire": null,
+      "population": 35
+    },
+    "92": {
+      "name": "Glimmerwind",
+      "player": "Ixnay",
+      "type": "village",
+      "x": 103,
+      "y": 65,
+      "empire": null,
+      "population": 262
+    },
+    "64": {
+      "name": "Angougueux",
+      "player": "Smoox",
+      "type": "village",
+      "x": 103,
+      "y": 79,
+      "empire": null,
+      "population": 22
+    },
+    "65": {
+      "name": "Dogpeak",
+      "player": "Vendetta",
+      "type": "village",
+      "x": 103,
+      "y": 82,
+      "empire": null,
+      "population": 21
+    },
+    "248": {
+      "name": "aaaaaaa",
+      "player": "Avery",
+      "type": "village",
+      "x": 103,
+      "y": 99,
+      "empire": "River",
+      "population": 249
+    },
+    "325": {
+      "name": "fingers",
+      "player": "aha",
+      "type": "village",
+      "x": 103,
+      "y": 108,
+      "empire": "9fn",
+      "population": 67
+    },
+    "350": {
+      "name": "Smoothpeak",
+      "player": "noie",
+      "type": "village",
+      "x": 104,
+      "y": 47,
+      "empire": null,
+      "population": 43
+    },
+    "249": {
+      "name": "Lekikasi",
+      "player": "Ixnay",
+      "type": "village",
+      "x": 104,
+      "y": 61,
+      "empire": null,
+      "population": 136
+    },
+    "118": {
+      "name": "002 - Scary",
+      "player": "Ghost",
+      "type": "town",
+      "x": 104,
+      "y": 91,
+      "empire": "River",
+      "population": 553
+    },
+    "194": {
+      "name": "Swiftbreak",
+      "player": "Rictopia",
+      "type": "village",
+      "x": 104,
+      "y": 103,
+      "empire": null,
+      "population": 262
+    },
+    "246": {
+      "name": "Gusi",
+      "player": "Omnia",
+      "type": "village",
+      "x": 105,
+      "y": 54,
+      "empire": null,
+      "population": 21
+    },
+    "125": {
+      "name": "Trekek",
+      "player": "zygius641",
+      "type": "village",
+      "x": 105,
+      "y": 68,
+      "empire": null,
+      "population": 30
+    },
+    "94": {
+      "name": "Pumasse",
+      "player": "RobisLT",
+      "type": "village",
+      "x": 105,
+      "y": 72,
+      "empire": null,
+      "population": 21
+    },
+    "77": {
+      "name": "Gusi",
+      "player": "Dragaxx",
+      "type": "village",
+      "x": 105,
+      "y": 76,
+      "empire": null,
+      "population": 37
+    },
+    "108": {
+      "name": "Demonfield",
+      "player": "janix",
+      "type": "village",
+      "x": 105,
+      "y": 85,
+      "empire": null,
+      "population": 32
+    },
+    "273": {
+      "name": "004 - Horrible",
+      "player": "Ghost",
+      "type": "village",
+      "x": 105,
+      "y": 94,
+      "empire": "River",
+      "population": 260
+    },
+    "293": {
+      "name": "cccccc",
+      "player": "Josepaw",
+      "type": "village",
+      "x": 105,
+      "y": 99,
+      "empire": "ESP",
+      "population": 284
+    },
+    "203": {
+      "name": "Carhuamarca",
+      "player": "Fontoira",
+      "type": "town",
+      "x": 107,
+      "y": 39,
+      "empire": "BOH",
+      "population": 687
+    },
+    "326": {
+      "name": "Sarmans",
+      "player": "Xvii",
+      "type": "village",
+      "x": 107,
+      "y": 51,
+      "empire": null,
+      "population": 34
+    },
+    "225": {
+      "name": "Nelu",
+      "player": "Jasparugus",
+      "type": "village",
+      "x": 107,
+      "y": 60,
+      "empire": null,
+      "population": 22
+    },
+    "114": {
+      "name": "Rimecoast",
+      "player": "Vericusania",
+      "type": "village",
+      "x": 107,
+      "y": 80,
+      "empire": null,
+      "population": 21
+    },
+    "262": {
+      "name": "Kairo",
+      "player": "temp1",
+      "type": "town",
+      "x": 107,
+      "y": 96,
+      "empire": "River",
+      "population": 702
+    },
+    "300": {
+      "name": "Ouredolid",
+      "player": "Szildavid",
+      "type": "village",
+      "x": 108,
+      "y": 54,
+      "empire": null,
+      "population": 58
+    },
+    "192": {
+      "name": "Ciugena",
+      "player": "Da Cuties",
+      "type": "village",
+      "x": 108,
+      "y": 67,
+      "empire": null,
+      "population": 24
+    },
+    "315": {
+      "name": "Dewfort",
+      "player": "SgtBraadworst",
+      "type": "village",
+      "x": 108,
+      "y": 70,
+      "empire": null,
+      "population": 96
+    },
+    "100": {
+      "name": "Omakibo\u0161sitsu\u0148\u00f6",
+      "player": "Kylrako",
+      "type": "city",
+      "x": 108,
+      "y": 84,
+      "empire": "River",
+      "population": 957
+    },
+    "183": {
+      "name": "04 \u2022 Antogues",
+      "player": "Chief",
+      "type": "town",
+      "x": 108,
+      "y": 87,
+      "empire": "River",
+      "population": 219
+    },
+    "223": {
+      "name": "003 - Evil",
+      "player": "Ghost",
+      "type": "village",
+      "x": 108,
+      "y": 92,
+      "empire": "River",
+      "population": 337
+    },
+    "364": {
+      "name": "Cartaville",
+      "player": "Hackland",
+      "type": "town",
+      "x": 108,
+      "y": 106,
+      "empire": null,
+      "population": 99
+    },
+    "179": {
+      "name": "Snowsummit",
+      "player": "Loterius",
+      "type": "village",
+      "x": 109,
+      "y": 75,
+      "empire": null,
+      "population": 24
+    },
+    "184": {
+      "name": "Tawarahaba",
+      "player": "Kiraos",
+      "type": "village",
+      "x": 110,
+      "y": 79,
+      "empire": null,
+      "population": 21
+    },
+    "191": {
+      "name": "Xania",
+      "player": "temp1",
+      "type": "town",
+      "x": 110,
+      "y": 89,
+      "empire": "River",
+      "population": 786
+    },
+    "270": {
+      "name": "Pata",
+      "player": "Krondor",
+      "type": "city",
+      "x": 110,
+      "y": 95,
+      "empire": "River",
+      "population": 747
+    },
+    "321": {
+      "name": "Dogpeak",
+      "player": "Sistina",
+      "type": "village",
+      "x": 110,
+      "y": 99,
+      "empire": null,
+      "population": 35
+    },
+    "279": {
+      "name": "Gseidalin",
+      "player": "Verikusland",
+      "type": "village",
+      "x": 110,
+      "y": 123,
+      "empire": "River",
+      "population": 232
+    },
+    "329": {
+      "name": "Wolfshear",
+      "player": "Kalagarn",
+      "type": "village",
+      "x": 111,
+      "y": 57,
+      "empire": null,
+      "population": 67
+    },
+    "283": {
+      "name": "Lekikasi",
+      "player": "Hol1k",
+      "type": "village",
+      "x": 111,
+      "y": 61,
+      "empire": null,
+      "population": 66
+    },
+    "256": {
+      "name": "Houirgues",
+      "player": "SONGA",
+      "type": "village",
+      "x": 111,
+      "y": 64,
+      "empire": null,
+      "population": 34
+    },
+    "227": {
+      "name": "Saichivlin",
+      "player": "IpiB",
+      "type": "village",
+      "x": 111,
+      "y": 72,
+      "empire": null,
+      "population": 42
+    },
+    "250": {
+      "name": "Mallick",
+      "player": "Verikusland",
+      "type": "village",
+      "x": 111,
+      "y": 83,
+      "empire": "River",
+      "population": 304
+    },
+    "239": {
+      "name": "Mossview",
+      "player": "simmer",
+      "type": "village",
+      "x": 112,
+      "y": 76,
+      "empire": null,
+      "population": 30
+    },
+    "295": {
+      "name": "Bakule",
+      "player": "MrDuck557",
+      "type": "village",
+      "x": 113,
+      "y": 67,
+      "empire": "BOH",
+      "population": 276
+    },
+    "343": {
+      "name": "Aragon",
+      "player": "ashlands",
+      "type": "village",
+      "x": 114,
+      "y": 63,
+      "empire": null,
+      "population": 55
+    },
+    "265": {
+      "name": "Sinsu",
+      "player": "Scarlet Night",
+      "type": "village",
+      "x": 114,
+      "y": 81,
+      "empire": null,
+      "population": 41
+    },
+    "274": {
+      "name": "Direcrest",
+      "player": "drak",
+      "type": "village",
+      "x": 114,
+      "y": 85,
+      "empire": null,
+      "population": 35
+    },
+    "333": {
+      "name": "Mossview",
+      "player": "Maxim Jainua",
+      "type": "village",
+      "x": 114,
+      "y": 95,
+      "empire": null,
+      "population": 34
+    },
+    "311": {
+      "name": "Neucona",
+      "player": "selman",
+      "type": "village",
+      "x": 115,
+      "y": 73,
+      "empire": null,
+      "population": 48
+    },
+    "323": {
+      "name": "Bulanshaat",
+      "player": "HaikouLand",
+      "type": "village",
+      "x": 115,
+      "y": 90,
+      "empire": null,
+      "population": 34
+    },
+    "302": {
+      "name": "Larraine",
+      "player": "MrDuck557",
+      "type": "town",
+      "x": 116,
+      "y": 59,
+      "empire": "BOH",
+      "population": 548
+    },
+    "289": {
+      "name": "Cresnando",
+      "player": "Ogre",
+      "type": "village",
+      "x": 116,
+      "y": 77,
+      "empire": null,
+      "population": 34
+    },
+    "332": {
+      "name": "Tategawa",
+      "player": "Erhard",
+      "type": "village",
+      "x": 118,
+      "y": 81,
+      "empire": null,
+      "population": 34
+    },
+    "349": {
+      "name": "Khabarem",
+      "player": "MrDuck557",
+      "type": "village",
+      "x": 120,
+      "y": 53,
+      "empire": "BOH",
+      "population": 265
+    },
+    "219": {
+      "name": "Bereb",
+      "player": "Zillikland",
+      "type": "village",
+      "x": 123,
+      "y": 78,
+      "empire": "River",
+      "population": 227
+    },
+    "284": {
+      "name": "Rimecoast",
+      "player": "Krondor",
+      "type": "village",
+      "x": 123,
+      "y": 100,
+      "empire": "River",
+      "population": 293
+    },
+    "353": {
+      "name": "05. Irem",
+      "player": "Stark",
+      "type": "village",
+      "x": 124,
+      "y": 36,
+      "empire": "River",
+      "population": 199
+    },
+    "354": {
+      "name": "Xalkida",
+      "player": "temp1",
+      "type": "village",
+      "x": 128,
+      "y": 44,
+      "empire": "River",
+      "population": 153
+    },
+    "320": {
+      "name": "Bitaca",
+      "player": "Gesscu",
+      "type": "town",
+      "x": 130,
+      "y": 108,
+      "empire": "BOH",
+      "population": 385
+    },
+    "120": {
+      "name": "Perpippes",
+      "player": "Helionobre",
+      "type": "village",
+      "x": 134,
+      "y": 140,
+      "empire": "River",
+      "population": 233
+    },
+    "324": {
+      "name": "Shademeadow",
+      "player": "hencoco",
+      "type": "town",
+      "x": 135,
+      "y": 99,
+      "empire": "BOH",
+      "population": 230
+    }
+  },
+  "history": {
+    "318": {
+      "name": "Stokomir",
+      "player": "Derenium",
+      "type": "town",
+      "x": 24,
+      "y": 104,
+      "empire": "BOH",
+      "population": 217,
+      "from_type": "village",
+      "detected_at": "2026-03-19T12:44:21.865410+00:00",
+      "base_loyalty": 100,
+      "max_loyalty": 200,
+      "recovery_rate": 4,
+      "event_type": "tier_up"
+    },
+    "297": {
+      "name": "Hollowglen",
+      "player": "Rabid Crag",
+      "type": "town",
+      "x": 50,
+      "y": 99,
+      "empire": "BOH",
+      "population": 300,
+      "from_type": "village",
+      "detected_at": "2026-03-19T12:44:21.865410+00:00",
+      "base_loyalty": 100,
+      "max_loyalty": 200,
+      "recovery_rate": 4,
+      "event_type": "tier_up"
+    },
+    "73": {
+      "name": "Martilly",
+      "player": "Nahkaherra",
+      "type": "city",
+      "x": 54,
+      "y": 73,
+      "empire": "BOH",
+      "population": 226,
+      "from_type": "town",
+      "detected_at": "2026-03-19T12:44:21.865410+00:00",
+      "base_loyalty": 200,
+      "max_loyalty": 300,
+      "recovery_rate": 6,
+      "event_type": "tier_up"
+    },
+    "110": {
+      "name": "02-Montr\u00e9al",
+      "player": "dub452",
+      "type": "city",
+      "x": 55,
+      "y": 68,
+      "empire": "BOH",
+      "population": 1030,
+      "from_type": "town",
+      "detected_at": "2026-03-19T12:44:21.865410+00:00",
+      "base_loyalty": 200,
+      "max_loyalty": 300,
+      "recovery_rate": 6,
+      "event_type": "tier_up"
+    },
+    "205": {
+      "name": "Eisenbrunn",
+      "player": "Infinia",
+      "type": "town",
+      "x": 58,
+      "y": 99,
+      "empire": null,
+      "population": 213,
+      "from_type": "village",
+      "detected_at": "2026-03-19T12:44:21.865410+00:00",
+      "base_loyalty": 100,
+      "max_loyalty": 200,
+      "recovery_rate": 4,
+      "event_type": "tier_up"
+    },
+    "275": {
+      "name": "5[0]-Hat\u00e1rv\u00e1r",
+      "player": "proo-yoda",
+      "type": "town",
+      "x": 61,
+      "y": 64,
+      "empire": "BOH",
+      "population": 225,
+      "from_type": "village",
+      "detected_at": "2026-03-19T12:44:21.865410+00:00",
+      "base_loyalty": 100,
+      "max_loyalty": 200,
+      "recovery_rate": 4,
+      "event_type": "tier_up"
+    },
+    "202": {
+      "name": "Shadowstar",
+      "player": "Dauntless",
+      "type": "town",
+      "x": 64,
+      "y": 78,
+      "empire": "BOH",
+      "population": 274,
+      "from_type": "village",
+      "detected_at": "2026-03-19T12:44:21.865410+00:00",
+      "base_loyalty": 100,
+      "max_loyalty": 200,
+      "recovery_rate": 4,
+      "event_type": "tier_up"
+    },
+    "268": {
+      "name": "3.CRUSH YOUR ENEMIES",
+      "player": "Crom",
+      "type": "town",
+      "x": 69,
+      "y": 65,
+      "empire": "BOH",
+      "population": 390,
+      "from_type": "village",
+      "detected_at": "2026-03-19T12:44:21.865410+00:00",
+      "base_loyalty": 100,
+      "max_loyalty": 200,
+      "recovery_rate": 4,
+      "event_type": "tier_up"
+    },
+    "119": {
+      "name": "02 - The Bad Lands",
+      "player": "Trashdom",
+      "type": "city",
+      "x": 73,
+      "y": 103,
+      "empire": "River",
+      "population": 699,
+      "from_type": "town",
+      "detected_at": "2026-03-19T12:44:21.865410+00:00",
+      "base_loyalty": 200,
+      "max_loyalty": 300,
+      "recovery_rate": 6,
+      "event_type": "tier_up"
+    },
+    "106": {
+      "name": "La Santa Trinidad",
+      "player": "BillySnake",
+      "type": "city",
+      "x": 84,
+      "y": 89,
+      "empire": "River",
+      "population": 897,
+      "from_type": "town",
+      "detected_at": "2026-03-19T12:44:21.865410+00:00",
+      "base_loyalty": 200,
+      "max_loyalty": 300,
+      "recovery_rate": 6,
+      "event_type": "tier_up"
+    },
+    "180": {
+      "name": "Lumbridge",
+      "player": "Benz",
+      "type": "town",
+      "x": 88,
+      "y": 64,
+      "empire": "BOH",
+      "population": 304,
+      "from_type": "village",
+      "detected_at": "2026-03-19T12:44:21.865410+00:00",
+      "base_loyalty": 100,
+      "max_loyalty": 200,
+      "recovery_rate": 4,
+      "event_type": "tier_up"
+    },
+    "322": {
+      "name": "5. Darkness",
+      "player": "SupremeNewb",
+      "type": "town",
+      "x": 89,
+      "y": 55,
+      "empire": "BOH",
+      "population": 399,
+      "from_type": "village",
+      "detected_at": "2026-03-19T12:44:21.865410+00:00",
+      "base_loyalty": 100,
+      "max_loyalty": 200,
+      "recovery_rate": 4,
+      "event_type": "tier_up"
+    },
+    "324": {
+      "name": "Shademeadow",
+      "player": "hencoco",
+      "type": "town",
+      "x": 135,
+      "y": 99,
+      "empire": "BOH",
+      "population": 213,
+      "from_type": "village",
+      "detected_at": "2026-03-19T12:44:21.865410+00:00",
+      "base_loyalty": 100,
+      "max_loyalty": 200,
+      "recovery_rate": 4,
+      "event_type": "tier_up"
+    },
+    "286": {
+      "name": "4. Doom",
+      "player": "SupremeNewb",
+      "type": "city",
+      "x": 59,
+      "y": 86,
+      "empire": "BOH",
+      "population": 741,
+      "from_type": "town",
+      "detected_at": "2026-03-19T14:04:17.486728+00:00",
+      "base_loyalty": 200,
+      "max_loyalty": 300,
+      "recovery_rate": 6,
+      "event_type": "tier_up"
+    }
+  },
+  "last_check": "2026-03-19T14:04:17.486728+00:00",
+  "alert_channel_id": 1472210079913611309,
+  "conquest_history": {
+    "273": {
+      "name": "004 - Horrible",
+      "player": "Ghost",
+      "type": "village",
+      "x": 105,
+      "y": 94,
+      "empire": "River",
+      "population": 190,
+      "previous_player": "hencoco",
+      "detected_at": "2026-03-17T14:09:05.364418+00:00",
+      "base_loyalty": 0,
+      "max_loyalty": 100,
+      "recovery_rate": 2,
+      "event_type": "conquest"
+    },
+    "245": {
+      "name": "Trasario",
+      "player": "Krondor",
+      "type": "town",
+      "x": 85,
+      "y": 112,
+      "empire": "River",
+      "population": 202,
+      "previous_player": "Hackland",
+      "detected_at": "2026-03-19T12:44:21.865410+00:00",
+      "base_loyalty": 0,
+      "max_loyalty": 200,
+      "recovery_rate": 4,
+      "event_type": "conquest"
+    },
+    "69": {
+      "name": "2-4 Montauciennes",
+      "player": "hiall",
+      "type": "town",
+      "x": 92,
+      "y": 100,
+      "empire": "River",
+      "population": 343,
+      "previous_player": "Derenium",
+      "detected_at": "2026-03-19T12:44:21.865410+00:00",
+      "base_loyalty": 0,
+      "max_loyalty": 200,
+      "recovery_rate": 4,
+      "event_type": "conquest"
+    },
+    "66": {
+      "name": "San Rascala",
+      "player": "Svyatislov",
+      "type": "city",
+      "x": 96,
+      "y": 59,
+      "empire": "River",
+      "population": 528,
+      "previous_player": "kingdome",
+      "detected_at": "2026-03-19T12:44:21.865410+00:00",
+      "base_loyalty": 0,
+      "max_loyalty": 300,
+      "recovery_rate": 6,
+      "event_type": "conquest"
+    },
+    "49": {
+      "name": "Anaque",
+      "player": "Stark",
+      "type": "city",
+      "x": 97,
+      "y": 65,
+      "empire": "River",
+      "population": 405,
+      "previous_player": "Isthalas",
+      "detected_at": "2026-03-19T12:44:21.865410+00:00",
+      "base_loyalty": 0,
+      "max_loyalty": 300,
+      "recovery_rate": 6,
+      "event_type": "conquest"
+    },
+    "160": {
+      "name": "Chillmeadow",
+      "player": "Kylrako",
+      "type": "city",
+      "x": 102,
+      "y": 58,
+      "empire": "River",
+      "population": 558,
+      "previous_player": "kingdome",
+      "detected_at": "2026-03-19T12:44:21.865410+00:00",
+      "base_loyalty": 0,
+      "max_loyalty": 300,
+      "recovery_rate": 6,
+      "event_type": "conquest"
+    },
+    "193": {
+      "name": "El Jaleo",
+      "player": "Avery",
+      "type": "town",
+      "x": 102,
+      "y": 99,
+      "empire": "River",
+      "population": 362,
+      "previous_player": "Josepaw",
+      "detected_at": "2026-03-19T12:44:21.865410+00:00",
+      "base_loyalty": 0,
+      "max_loyalty": 200,
+      "recovery_rate": 4,
+      "event_type": "conquest"
+    },
+    "248": {
+      "name": "aaaaaaa",
+      "player": "Avery",
+      "type": "village",
+      "x": 103,
+      "y": 99,
+      "empire": "River",
+      "population": 249,
+      "previous_player": "Josepaw",
+      "detected_at": "2026-03-19T12:44:21.865410+00:00",
+      "base_loyalty": 0,
+      "max_loyalty": 100,
+      "recovery_rate": 2,
+      "event_type": "conquest"
+    },
+    "183": {
+      "name": "04 \u2022 Antogues",
+      "player": "Chief",
+      "type": "town",
+      "x": 108,
+      "y": 87,
+      "empire": "River",
+      "population": 219,
+      "previous_player": "Zillikland",
+      "detected_at": "2026-03-19T12:44:21.865410+00:00",
+      "base_loyalty": 0,
+      "max_loyalty": 200,
+      "recovery_rate": 4,
+      "event_type": "conquest"
+    }
+  },
+  "settlement_history": [
+    {
+      "name": "Litoise",
+      "player": "alex",
+      "type": "village",
+      "x": 46,
+      "y": 97,
+      "empire": null,
+      "population": 77,
+      "village_id": "328",
+      "detected_at": "2026-03-16T15:02:05.268130+00:00",
+      "event_type": "settlement"
+    },
+    {
+      "name": "Wolfshear",
+      "player": "Kalagarn",
+      "type": "village",
+      "x": 111,
+      "y": 57,
+      "empire": null,
+      "population": 65,
+      "village_id": "329",
+      "detected_at": "2026-03-16T15:02:05.268130+00:00",
+      "event_type": "settlement"
+    },
+    {
+      "name": "Lihungi",
+      "player": "Kyomu",
+      "type": "village",
+      "x": 68,
+      "y": 42,
+      "empire": null,
+      "population": 52,
+      "village_id": "330",
+      "detected_at": "2026-03-16T16:05:42.063759+00:00",
+      "event_type": "settlement"
+    },
+    {
+      "name": "Koutanne",
+      "player": "xPlaykey",
+      "type": "village",
+      "x": 65,
+      "y": 44,
+      "empire": "BOH",
+      "population": 34,
+      "village_id": "331",
+      "detected_at": "2026-03-16T17:05:42.103741+00:00",
+      "event_type": "settlement"
+    },
+    {
+      "name": "Mossview",
+      "player": "Maxim Jainua",
+      "type": "village",
+      "x": 114,
+      "y": 95,
+      "empire": null,
+      "population": 34,
+      "village_id": "333",
+      "detected_at": "2026-03-16T20:05:42.096795+00:00",
+      "event_type": "settlement"
+    },
+    {
+      "name": "Tategawa",
+      "player": "Erhard",
+      "type": "village",
+      "x": 118,
+      "y": 81,
+      "empire": null,
+      "population": 34,
+      "village_id": "332",
+      "detected_at": "2026-03-16T20:05:42.096795+00:00",
+      "event_type": "settlement"
+    },
+    {
+      "name": "Cresnando",
+      "player": "Sevenograd",
+      "type": "village",
+      "x": 84,
+      "y": 118,
+      "empire": null,
+      "population": 34,
+      "village_id": "334",
+      "detected_at": "2026-03-16T22:05:42.147154+00:00",
+      "event_type": "settlement"
+    },
+    {
+      "name": "Perpippes",
+      "player": "Berg La Filocha",
+      "type": "village",
+      "x": 51,
+      "y": 45,
+      "empire": "BOH",
+      "population": 40,
+      "village_id": "335",
+      "detected_at": "2026-03-17T00:05:42.072721+00:00",
+      "event_type": "settlement"
+    },
+    {
+      "name": "Trekek",
+      "player": "Mr Zeddicus",
+      "type": "village",
+      "x": 39,
+      "y": 76,
+      "empire": null,
+      "population": 34,
+      "village_id": "336",
+      "detected_at": "2026-03-17T14:09:05.364418+00:00",
+      "event_type": "settlement"
+    },
+    {
+      "name": "Tisniet",
+      "player": "Smiletopia",
+      "type": "village",
+      "x": 44,
+      "y": 61,
+      "empire": null,
+      "population": 50,
+      "village_id": "338",
+      "detected_at": "2026-03-17T14:09:05.364418+00:00",
+      "event_type": "settlement"
+    },
+    {
+      "name": "Alenmasse",
+      "player": "Nairdanev",
+      "type": "village",
+      "x": 50,
+      "y": 52,
+      "empire": null,
+      "population": 43,
+      "village_id": "342",
+      "detected_at": "2026-03-17T14:09:05.364418+00:00",
+      "event_type": "settlement"
+    },
+    {
+      "name": "Tisniet",
+      "player": "Berg La Filocha",
+      "type": "village",
+      "x": 57,
+      "y": 46,
+      "empire": "BOH",
+      "population": 58,
+      "village_id": "339",
+      "detected_at": "2026-03-17T14:09:05.364418+00:00",
+      "event_type": "settlement"
+    },
+    {
+      "name": "Montauzon",
+      "player": "Aether Domain",
+      "type": "village",
+      "x": 65,
+      "y": 39,
+      "empire": "BOH",
+      "population": 99,
+      "village_id": "337",
+      "detected_at": "2026-03-17T14:09:05.364418+00:00",
+      "event_type": "settlement"
+    },
+    {
+      "name": "Skaudtus",
+      "player": "Tko",
+      "type": "village",
+      "x": 76,
+      "y": 36,
+      "empire": null,
+      "population": 58,
+      "village_id": "340",
+      "detected_at": "2026-03-17T14:09:05.364418+00:00",
+      "event_type": "settlement"
+    },
+    {
+      "name": "Nobelage",
+      "player": "Mt Kelarphesis",
+      "type": "village",
+      "x": 98,
+      "y": 113,
+      "empire": null,
+      "population": 74,
+      "village_id": "341",
+      "detected_at": "2026-03-17T14:09:05.364418+00:00",
+      "event_type": "settlement"
+    },
+    {
+      "name": "Aragon",
+      "player": "ashlands",
+      "type": "village",
+      "x": 114,
+      "y": 63,
+      "empire": null,
+      "population": 55,
+      "village_id": "343",
+      "detected_at": "2026-03-17T14:09:05.364418+00:00",
+      "event_type": "settlement"
+    },
+    {
+      "name": "Keweikuni",
+      "player": "MIMRIK",
+      "type": "village",
+      "x": 95,
+      "y": 115,
+      "empire": null,
+      "population": 55,
+      "village_id": "344",
+      "detected_at": "2026-03-17T17:09:05.339235+00:00",
+      "event_type": "settlement"
+    },
+    {
+      "name": "Andirveh",
+      "player": "Moose",
+      "type": "village",
+      "x": 39,
+      "y": 79,
+      "empire": null,
+      "population": 48,
+      "village_id": "345",
+      "detected_at": "2026-03-17T19:09:04.609066+00:00",
+      "event_type": "settlement"
+    },
+    {
+      "name": "Tolenada",
+      "player": "Hamyrhold",
+      "type": "village",
+      "x": 59,
+      "y": 109,
+      "empire": null,
+      "population": 68,
+      "village_id": "346",
+      "detected_at": "2026-03-17T21:03:14.842733+00:00",
+      "event_type": "settlement"
+    },
+    {
+      "name": "Wildwood",
+      "player": "Derenium",
+      "type": "village",
+      "x": 26,
+      "y": 110,
+      "empire": "BOH",
+      "population": 43,
+      "village_id": "348",
+      "detected_at": "2026-03-17T23:03:14.942852+00:00",
+      "event_type": "settlement"
+    },
+    {
+      "name": "Bitaca",
+      "player": "Juice",
+      "type": "village",
+      "x": 88,
+      "y": 118,
+      "empire": null,
+      "population": 62,
+      "village_id": "347",
+      "detected_at": "2026-03-17T23:03:14.942852+00:00",
+      "event_type": "settlement"
+    },
+    {
+      "name": "Khabarem",
+      "player": "MrDuck557",
+      "type": "village",
+      "x": 120,
+      "y": 53,
+      "empire": "BOH",
+      "population": 43,
+      "village_id": "349",
+      "detected_at": "2026-03-18T01:03:14.887643+00:00",
+      "event_type": "settlement"
+    },
+    {
+      "name": "Nevertown",
+      "player": "Derenium",
+      "type": "village",
+      "x": 30,
+      "y": 45,
+      "empire": "BOH",
+      "population": 43,
+      "village_id": "366",
+      "detected_at": "2026-03-19T12:44:21.865410+00:00",
+      "event_type": "settlement"
+    },
+    {
+      "name": "Paris_plage",
+      "player": "Erua21",
+      "type": "village",
+      "x": 40,
+      "y": 73,
+      "empire": "BTP",
+      "population": 68,
+      "village_id": "351",
+      "detected_at": "2026-03-19T12:44:21.865410+00:00",
+      "event_type": "settlement"
+    },
+    {
+      "name": "Iliceli",
+      "player": "Trever",
+      "type": "village",
+      "x": 40,
+      "y": 90,
+      "empire": null,
+      "population": 43,
+      "village_id": "361",
+      "detected_at": "2026-03-19T12:44:21.865410+00:00",
+      "event_type": "settlement"
+    },
+    {
+      "name": "Mossdale",
+      "player": "Araghastia",
+      "type": "village",
+      "x": 45,
+      "y": 56,
+      "empire": null,
+      "population": 43,
+      "village_id": "355",
+      "detected_at": "2026-03-19T12:44:21.865410+00:00",
+      "event_type": "settlement"
+    },
+    {
+      "name": "San Casario",
+      "player": "gutoll",
+      "type": "village",
+      "x": 49,
+      "y": 89,
+      "empire": "BOH",
+      "population": 157,
+      "village_id": "356",
+      "detected_at": "2026-03-19T12:44:21.865410+00:00",
+      "event_type": "settlement"
+    },
+    {
+      "name": "Aragon",
+      "player": "perkann1",
+      "type": "village",
+      "x": 50,
+      "y": 103,
+      "empire": null,
+      "population": 64,
+      "village_id": "352",
+      "detected_at": "2026-03-19T12:44:21.865410+00:00",
+      "event_type": "settlement"
+    },
+    {
+      "name": "Vallallon",
+      "player": "Situx",
+      "type": "village",
+      "x": 54,
+      "y": 107,
+      "empire": null,
+      "population": 43,
+      "village_id": "358",
+      "detected_at": "2026-03-19T12:44:21.865410+00:00",
+      "event_type": "settlement"
+    },
+    {
+      "name": "Crowvault",
+      "player": "EkkieX",
+      "type": "village",
+      "x": 63,
+      "y": 113,
+      "empire": null,
+      "population": 80,
+      "village_id": "365",
+      "detected_at": "2026-03-19T12:44:21.865410+00:00",
+      "event_type": "settlement"
+    },
+    {
+      "name": "Ciastka",
+      "player": "Krakeling",
+      "type": "village",
+      "x": 67,
+      "y": 69,
+      "empire": "BOH",
+      "population": 155,
+      "village_id": "360",
+      "detected_at": "2026-03-19T12:44:21.865410+00:00",
+      "event_type": "settlement"
+    },
+    {
+      "name": "Montlun",
+      "player": "baertierchen",
+      "type": "village",
+      "x": 73,
+      "y": 115,
+      "empire": null,
+      "population": 47,
+      "village_id": "362",
+      "detected_at": "2026-03-19T12:44:21.865410+00:00",
+      "event_type": "settlement"
+    },
+    {
+      "name": "Tolenada",
+      "player": "System",
+      "type": "village",
+      "x": 74,
+      "y": 41,
+      "empire": null,
+      "population": 141,
+      "village_id": "363",
+      "detected_at": "2026-03-19T12:44:21.865410+00:00",
+      "event_type": "settlement"
+    },
+    {
+      "name": "Nementus",
+      "player": "Karzul",
+      "type": "village",
+      "x": 80,
+      "y": 35,
+      "empire": null,
+      "population": 67,
+      "village_id": "359",
+      "detected_at": "2026-03-19T12:44:21.865410+00:00",
+      "event_type": "settlement"
+    },
+    {
+      "name": "003 Gele genotskoker",
+      "player": "Prins Pils",
+      "type": "village",
+      "x": 87,
+      "y": 36,
+      "empire": "BOH",
+      "population": 153,
+      "village_id": "357",
+      "detected_at": "2026-03-19T12:44:21.865410+00:00",
+      "event_type": "settlement"
+    },
+    {
+      "name": "Smoothpeak",
+      "player": "noie",
+      "type": "village",
+      "x": 104,
+      "y": 47,
+      "empire": null,
+      "population": 43,
+      "village_id": "350",
+      "detected_at": "2026-03-19T12:44:21.865410+00:00",
+      "event_type": "settlement"
+    },
+    {
+      "name": "Cartaville",
+      "player": "Hackland",
+      "type": "town",
+      "x": 108,
+      "y": 106,
+      "empire": null,
+      "population": 68,
+      "village_id": "364",
+      "detected_at": "2026-03-19T12:44:21.865410+00:00",
+      "event_type": "settlement"
+    },
+    {
+      "name": "05. Irem",
+      "player": "Stark",
+      "type": "village",
+      "x": 124,
+      "y": 36,
+      "empire": "River",
+      "population": 191,
+      "village_id": "353",
+      "detected_at": "2026-03-19T12:44:21.865410+00:00",
+      "event_type": "settlement"
+    },
+    {
+      "name": "Xalkida",
+      "player": "temp1",
+      "type": "village",
+      "x": 128,
+      "y": 44,
+      "empire": "River",
+      "population": 140,
+      "village_id": "354",
+      "detected_at": "2026-03-19T12:44:21.865410+00:00",
+      "event_type": "settlement"
+    }
+  ],
+  "destruction_history": [
+    {
+      "name": "Pata",
+      "player": "Eswert",
+      "type": "village",
+      "x": 45,
+      "y": 65,
+      "empire": null,
+      "population": 36,
+      "village_id": "290",
+      "detected_at": "2026-03-16T15:02:05.268130+00:00",
+      "event_type": "destruction"
+    },
+    {
+      "name": "Tisniet",
+      "player": "Agry0n",
+      "type": "village",
+      "x": 45,
+      "y": 69,
+      "empire": null,
+      "population": 22,
+      "village_id": "241",
+      "detected_at": "2026-03-16T16:05:42.063759+00:00",
+      "event_type": "destruction"
+    },
+    {
+      "name": "Sarmans",
+      "player": "Avery",
+      "type": "town",
+      "x": 52,
+      "y": 58,
+      "empire": "River",
+      "population": 187,
+      "village_id": "207",
+      "detected_at": "2026-03-16T22:05:42.147154+00:00",
+      "event_type": "destruction"
+    },
+    {
+      "name": "Zolo",
+      "player": "BigKingdom",
+      "type": "village",
+      "x": 71,
+      "y": 91,
+      "empire": "River",
+      "population": 59,
+      "village_id": "181",
+      "detected_at": "2026-03-17T00:05:42.072721+00:00",
+      "event_type": "destruction"
+    },
+    {
+      "name": "Scorchhill",
+      "player": "Avery",
+      "type": "city",
+      "x": 54,
+      "y": 63,
+      "empire": "River",
+      "population": 75,
+      "village_id": "163",
+      "detected_at": "2026-03-17T15:09:04.718417+00:00",
+      "event_type": "destruction"
+    },
+    {
+      "name": "Samhae",
+      "player": "Avery",
+      "type": "village",
+      "x": 41,
+      "y": 57,
+      "empire": "River",
+      "population": 100,
+      "village_id": "301",
+      "detected_at": "2026-03-19T12:44:21.865410+00:00",
+      "event_type": "destruction"
+    },
+    {
+      "name": "Bangarang",
+      "player": "kingdome",
+      "type": "village",
+      "x": 94,
+      "y": 61,
+      "empire": null,
+      "population": 314,
+      "village_id": "213",
+      "detected_at": "2026-03-19T12:44:21.865410+00:00",
+      "event_type": "destruction"
+    }
+  ]
+}

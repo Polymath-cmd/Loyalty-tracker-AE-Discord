@@ -41,17 +41,25 @@ class LoyaltyTracker:
         self.data = self.load_data()
     
     def load_data(self):
+        print(f"[LOAD] Looking for data file: {DATA_FILE}")
+        print(f"[LOAD] Current directory: {os.getcwd()}")
+        print(f"[LOAD] File exists: {os.path.exists(DATA_FILE)}")
         if os.path.exists(DATA_FILE):
             try:
                 with open(DATA_FILE, 'r', encoding='utf-8') as f:
-                    return json.load(f)
-            except:
+                    data = json.load(f)
+                    print(f"[LOAD] Loaded data - snapshot: {len(data.get('snapshot', {}))}, history: {len(data.get('history', {}))}")
+                    return data
+            except Exception as e:
+                print(f"[LOAD] Error loading data: {e}")
                 pass
+        print("[LOAD] Returning empty data")
         return {'snapshot': {}, 'history': {}, 'last_check': None}
     
     def save_data(self):
         with open(DATA_FILE, 'w', encoding='utf-8') as f:
             json.dump(self.data, f, indent=2)
+        print(f"[SAVE] Data saved - snapshot: {len(self.data.get('snapshot', {}))}, history: {len(self.data.get('history', {}))}")
     
     def fetch_api(self):
         try:
@@ -313,8 +321,11 @@ async def on_ready():
 @tasks.loop(minutes=CHECK_INTERVAL)
 async def auto_check():
     """Auto-check for events every 10 minutes"""
+    print(f"[AUTO-CHECK] Running at {datetime.now(timezone.utc).isoformat()}")
+    
     # Check if we have a previous snapshot (skip alerts on first run)
     had_previous = bool(tracker.data.get('snapshot'))
+    print(f"[AUTO-CHECK] Had previous snapshot: {had_previous}")
     
     result, error = tracker.check_tier_ups()
     if error:
@@ -331,6 +342,12 @@ async def auto_check():
     if not had_previous:
         print("[INFO] First run - established baseline, no alerts sent")
         return
+    
+    print(f"[AUTO-CHECK] Total events found: {total}")
+    print(f"[AUTO-CHECK]   - Tier-ups: {len(tier_ups)}")
+    print(f"[AUTO-CHECK]   - Conquests: {len(conquests)}")
+    print(f"[AUTO-CHECK]   - Settlements: {len(settlements)}")
+    print(f"[AUTO-CHECK]   - Destructions: {len(destructions)}")
     
     if total > 0:
         print(f"Auto-check found {len(tier_ups)} tier-up(s), {len(conquests)} conquest(s), {len(settlements)} settlement(s), {len(destructions)} destruction(s)")
